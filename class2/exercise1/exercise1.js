@@ -30,8 +30,8 @@ const interests = ["Star Trek TNG", "LOTR The Two Towers", "Neuromancer", "pizza
 ];
 const favoriteMovie = interests[1]
 //console.log(favoriteMovie)
-
-// no default value declaration
 for (let favoriteBook of interests) {
     console.log(interests[2])
 }
+// no default value declaration
+const noValuePlaceholder
