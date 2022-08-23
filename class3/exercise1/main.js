@@ -11,4 +11,4 @@ const userInfo = {
 };
 
 const coderStatus = userInfo.introduce() + userInfo.motivate(userInfo.level);
-console.log("Coder Status", coderStatus);
+console.log("Coder Status:", coderStatus);
