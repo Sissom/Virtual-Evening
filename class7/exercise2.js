@@ -1,7 +1,9 @@
 
 function parent(x) {
     function closure() {
-    return x;}
+
+    return x;
+}
 
     return closure();
     }
